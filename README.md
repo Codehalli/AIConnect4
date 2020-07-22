@@ -1,6 +1,7 @@
 Project: AI Connect 4
 
 By: Pranav Rao
+
 Date: 07/ 10/ 2020
 
 Purpose for this  program was to create artificial intelligence(AI) connect 4 game. One player will be user/in person and the other player will be the computer. It will be played like a normal connect 4 game and the AI will be able to play competively, making the right decsions and game moves. The AI will be able to detrmine when there is chance to win or even block the in person player from winning. Once the game is over then it will display a text, indicating which player has won and then terminate the program.
